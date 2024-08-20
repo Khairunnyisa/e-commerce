@@ -3,5 +3,5 @@
 ## Members
 - Nisa
 - Zaza
-- Naura
+- Naura Ayuu
 
