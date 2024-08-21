@@ -1,7 +1,7 @@
 # Ini adalah Team 1
 
 ## Members
-- Nisa
-- Zaza
-- Naura
+- Nisa Trenggono
+- Zaza Rinaldi
+- Naura Ayuu
 
